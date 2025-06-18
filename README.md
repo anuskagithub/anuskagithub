@@ -1,9 +1,11 @@
 <h1 align="center">👩‍💻 Hello World! I'm Anuska Maity</h1>
-<h3 align="center">Final Year CSE Student | AI, Cloud & Automation Enthusiast | IEEE Author</h3>
+<h3 align="center"><h3 align="center">Final Year CSE Student | ML, Cloud & Full Stack Enthusiast | IEEE Author</h3>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=AI+%7C+Cloud+%7C+Django+Developer;Passionate+Engineer+%7C+Python+%26+C%2B%2B;Always+Exploring+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=AWS+%7C+Python+%7C+Django+Developer;Data+Analytics+%7C+Cloud+Projects;Passionate+Engineer+%7C+Always+Learning;Always+Building+%7C+Always+Evolving" alt="Typing SVG" />
 </p>
+
 
 ---
 
