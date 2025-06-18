@@ -2,11 +2,6 @@
 <h3 align="center"><h3 align="center">Final Year CSE Student | ML, Cloud & Full Stack Enthusiast | IEEE Author</h3>
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=AWS+%7C+Python+%7C+Django;DataAnalytics+%7C+Always+Learning;Always+Building+%7C+Always+Evolving" alt="Typing SVG" />
-</p>
-
-
 ---
 
 ## 🧠 About Me
