@@ -40,8 +40,8 @@
 
 ### 🧳 [Daily Travel Booking System](https://github.com/anuskagithub/travel_booking_system)
 Developed an offline software for managing daily travel services and packages
-🗺️ Allows users to browse and book travel options, with curated destinations for easy selection
-💻 Tech Stack: Python (Spyder - Anaconda), MySQL
+> Allows users to browse and book travel options, with curated destinations for easy selection
+> Tech Stack: Python (Spyder - Anaconda), MySQL
 
 
 
