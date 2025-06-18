@@ -38,7 +38,7 @@
 ### 🔐 [Django-based Identity Verification Web App](https://github.com/anuskagithub/policeapp)
 > Used Django, webcam image capture, and real-time validation to build a secure identity verification platform
 
-### 🧳 Daily Travel Booking System
+### 🧳 [Daily Travel Booking System](https://github.com/anuskagithub/travel_booking_system)
 Developed an offline software for managing daily travel services and packages
 🗺️ Allows users to browse and book travel options, with curated destinations for easy selection
 💻 Tech Stack: Python (Spyder - Anaconda), MySQL
