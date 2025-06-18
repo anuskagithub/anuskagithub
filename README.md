@@ -49,12 +49,7 @@ Developed an offline software for managing daily travel services and packages
 
 ## 📚 Publications
 
-- 📄 **[IEEE Xplore: Dynamic Code Optimizer Using Blackbox AI](https://ieeexplore.ieee.org/document/10752220)**  
-  *Presented at TENSYMP 2024, NSUT Delhi*
-
-- ♻️ **[IEEE Xplore: Smart Garbage Management System](https://ieeexplore.ieee.org/document/10235041)**  
-  *Presented at WCONF 2023*
-
+- 
 ---
 
 ## 🏆 Achievements
@@ -67,6 +62,16 @@ Developed an offline software for managing daily travel services and packages
 
 - 🌱 Volunteer @ **National Service Scheme (NSS)**  
   Promoting sustainability and community-driven development
+
+- 📚 Publications
+
+  -📄 **[IEEE Xplore: Dynamic Code Optimizer Using Blackbox AI](https://ieeexplore.ieee.org/document/10752220)**  
+     *Presented at TENSYMP 2024, NSUT Delhi*
+
+   -♻️ **[IEEE Xplore: Smart Garbage Management System](https://ieeexplore.ieee.org/document/10235041)**  
+     *Presented at WCONF 2023*
+
+
 
 ---
 
