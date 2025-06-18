@@ -38,10 +38,16 @@
 ### 🔐 [Django-based Identity Verification Web App](https://github.com/anuskagithub/policeapp)
 > Used Django, webcam image capture, and real-time validation to build a secure identity verification platform
 
+### 🧳 [Personal Expense Tracker](https://github.com/anuskagithub/ExpenseTracker)
+> A cross-language personal finance tracker featuring a C++ CLI to log daily expenses and a Python (Dash & Plotly) dashboard for interactive monthly visualizations.
+> Data is stored in CSV files, enabling persistent tracking and real-time insights through bar and pie charts.
+
 ### 🧳 [Daily Travel Booking System](https://github.com/anuskagithub/travel_booking_system)
 Developed an offline software for managing daily travel services and packages
 > Allows users to browse and book travel options, with curated destinations for easy selection
 > Tech Stack: Python (Spyder - Anaconda), MySQL
+
+
 
 
 ---
