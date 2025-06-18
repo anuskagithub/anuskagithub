@@ -57,12 +57,6 @@ Developed an offline software for managing daily travel services and packages
 - 👩‍💼 Internship at **CDAC, Kolkata**  
   Developed a Django-based secure web app with webcam integration
 
-- 🧩 Associate Coordinator @ **UiPath Student Community KIIT**  
-  Leading automation and RPA-related events and mentoring students
-
-- 🌱 Volunteer @ **National Service Scheme (NSS)**  
-  Promoting sustainability and community-driven development
-
 - 📚 Publications
 
   -📄 **[IEEE Xplore: Dynamic Code Optimizer Using Blackbox AI](https://ieeexplore.ieee.org/document/10752220)**  
@@ -70,7 +64,9 @@ Developed an offline software for managing daily travel services and packages
 
    -♻️ **[IEEE Xplore: Smart Garbage Management System](https://ieeexplore.ieee.org/document/10235041)**  
      *Presented at WCONF 2023*
-
+ 
+ - 🧩 Former Associate Coordinator @ **UiPath Student Community KIIT**  
+  Overall responsibility to run the community. Community Leadership, Team Coordination and organizing community events 
 
 
 ---
