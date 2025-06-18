@@ -9,7 +9,7 @@
 🎓 Final-year Computer Science Engineering student at KIIT University, Bhubaneswar  
 📍 From Kolkata, India  
 🧩 I love solving real-world problems through technology  
-📚 Currently exploring Generative AI, AWS, Image Segmentation, and Robotic Process Automation  
+📚 Currently exploring AWS, Data Analytics, and Full Stack Development  
 🌱 Strong believer in learning by doing and community-driven development  
 
 ---
@@ -17,7 +17,7 @@
 ## 💼 Technical Skills
 
 - **Languages:** C, C++, Java, Python  
-- **Frameworks:** Django, Flask  
+- **Frameworks:** Django  
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, Keras  
 - **Web Dev:** HTML, CSS, JavaScript  
 - **Tools & Platforms:** VSCode, Node.js, GitHub, UiPath Studio, PowerBI  
@@ -39,7 +39,11 @@
 > Used Django, webcam image capture, and real-time validation to build a secure identity verification platform
 
 ### 🧳 Daily Travel Booking System
-> Built using Python & MySQL to manage travel bookings and recommend destinations offline
+Developed an offline software for managing daily travel services and packages
+🗺️ Allows users to browse and book travel options, with curated destinations for easy selection
+💻 Tech Stack: Python (Spyder - Anaconda), MySQL
+
+
 
 ---
 
