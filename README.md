@@ -68,7 +68,6 @@ Developed an offline software for managing daily travel services and packages
 ## ✨ Interests
 
 - 💃 Passionate stage performer and dancer  
-- 🤖 Automation & RPA via UiPath  
 - 📊 Data Visualization using Dash & Power BI  
 - 🌍 Exploring Cloud Deployments with AWS  
 
