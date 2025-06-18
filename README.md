@@ -44,12 +44,6 @@ Developed an offline software for managing daily travel services and packages
 > Tech Stack: Python (Spyder - Anaconda), MySQL
 
 
-
----
-
-## 📚 Publications
-
-- 
 ---
 
 ## 🏆 Achievements
@@ -88,7 +82,7 @@ Developed an offline software for managing daily travel services and packages
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuskagithub&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuskagithub&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
